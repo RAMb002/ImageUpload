@@ -19,3 +19,11 @@
 <img width="1254" height="1254" alt="provider_kit_logo" src="https://github.com/user-attachments/assets/10b07210-1d0b-4ea5-9bf7-bc886c77708e" />
 
 
+<p>
+  <img
+    width="720"
+    height="440"
+    alt="Snippets demo"
+    src="https://github.com/user-attachments/assets/ce6d937b-7322-485f-845b-aaecaf00f78a"
+  />
+</p>
