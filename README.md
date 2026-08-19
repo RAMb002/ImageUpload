@@ -7,3 +7,12 @@
     alt="Mutation demo"
   />
 </p>
+
+<img width="442" height="300" alt="state_widgets_demo" src="https://github.com/user-attachments/assets/e5a1b3d2-6e95-4bcf-aa31-b88a5dd10046" />
+<img width="450" height="360" alt="multi_state_widgets_demo" src="https://github.com/user-attachments/assets/f67ebb34-9435-4c43-9ed1-6c2e93df631a" />
+<img width="434" height="350" alt="view_state_widget_demo" src="https://github.com/user-attachments/assets/0a8736e6-56c3-4c8d-9774-5a67a9954396" />
+<img width="788" height="300" alt="multi_view_state_widgets_demo" src="https://github.com/user-attachments/assets/2cdc892c-190c-4c7d-b61f-2d181ee63b63" />
+<img width="362" height="444" alt="mutation_group_demo" src="https://github.com/user-attachments/assets/06c6d0d3-e764-4b2c-b546-4ed0460cc8fa" />
+
+
+
