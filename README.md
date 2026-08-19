@@ -14,5 +14,6 @@
 <img width="788" height="300" alt="multi_view_state_widgets_demo" src="https://github.com/user-attachments/assets/2cdc892c-190c-4c7d-b61f-2d181ee63b63" />
 <img width="362" height="444" alt="mutation_group_demo" src="https://github.com/user-attachments/assets/06c6d0d3-e764-4b2c-b546-4ed0460cc8fa" />
 
+<img width="1254" height="1254" alt="provider_kit_logo" src="https://github.com/user-attachments/assets/10b07210-1d0b-4ea5-9bf7-bc886c77708e" />
 
 
